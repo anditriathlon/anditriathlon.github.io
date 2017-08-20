@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anditriathlon</title>
+    <description>This is a blog for sharing my passion for triathlon.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Aug 2017 21:59:34 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 21:59:34 +0200</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>quote of the day</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Steve Jobs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://news.stanford.edu/2005/06/14/jobs-061505/&quot;&gt;http://news.stanford.edu/2005/06/14/jobs-061505/&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe height=&quot;405&quot; width=&quot;590&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/activities/1132192366/embed/bf24f1cb23aec531095ec168fbb6f655cd7ef6e0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; data-context=&quot;true&quot; href=&quot;https://www.flickr.com/photos/49424339@N02/35813103324/in/album-72157687666082536/&quot; title=&quot;Ironman Hamburg 2017&quot;&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4413/35813103324_37c528f271_n.jpg&quot; width=&quot;240&quot; height=&quot;320&quot; alt=&quot;Ironman Hamburg 2017&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 12 Jul 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/07/12/quote-of-the-day-12072017.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/12/quote-of-the-day-12072017.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
