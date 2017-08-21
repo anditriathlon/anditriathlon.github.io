@@ -73,6 +73,7 @@ While run part I consumed:
 * drunk cola
 * ate some orange and bannana
 
+
 Average pace (min/km) of each of 5k splits:
 
 - 04:54
@@ -83,6 +84,8 @@ Average pace (min/km) of each of 5k splits:
 - 08:39
 - 08:57
 - 07:18
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/49424339@N02/36667062156/in/dateposted-public/" title="splits"><img src="https://farm5.staticflickr.com/4412/36667062156_c2cb7aaf09_c.jpg" width="800" height="192" alt="splits"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 11:43:54 - I done it!
 -------------------
