@@ -2,7 +2,7 @@
 title: anditriathlon
 email: andi@anditriathlon.com
 description: > # this means to ignore newlines until "baseurl:"
-  anditriathlon is andilab's initiative for sharing passion for triathlon, promoting healthy lifestyle.
+  anditriathlon is andilab's initiative for sharing passion for triathlon and promoting healthy lifestyle.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anditriathlon.github.io" # the base hostname & protocol for your site
 instagram_username: andi_triathlon
