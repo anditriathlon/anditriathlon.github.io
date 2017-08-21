@@ -6,28 +6,63 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2017 21:59:34 +0200</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 21:59:34 +0200</lastBuildDate>
+    <pubDate>Mon, 21 Aug 2017 12:39:25 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Aug 2017 12:39:25 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
-        <title>quote of the day</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.&lt;/p&gt;
-&lt;/blockquote&gt;
+        <title>My first Ironman</title>
+        <description>&lt;p&gt;13 August 2017 I finished my first triathlon on the distance of 140.6 miles.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Steve Jobs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ironman triathlon is comibnation of &lt;strong&gt;3.8km&lt;/strong&gt; (2.4 mile) &lt;strong&gt;swim&lt;/strong&gt;, &lt;strong&gt;180.25km&lt;/strong&gt; (112 mile) &lt;strong&gt;bike&lt;/strong&gt; and &lt;strong&gt;42.2km&lt;/strong&gt; (26.22 mile) &lt;strong&gt;run&lt;/strong&gt;. Exactly in this order, followed directly one by another.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://news.stanford.edu/2005/06/14/jobs-061505/&quot;&gt;http://news.stanford.edu/2005/06/14/jobs-061505/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It was tough expirience, but definietly the one really worth hard work and commitment.&lt;/p&gt;
 
-&lt;iframe height=&quot;405&quot; width=&quot;590&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/activities/1132192366/embed/bf24f1cb23aec531095ec168fbb6f655cd7ef6e0&quot;&gt;&lt;/iframe&gt;
+&lt;h2 id=&quot;swim---110&quot;&gt;SWIM - 1:10&lt;/h2&gt;
 
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; data-header=&quot;true&quot; data-footer=&quot;true&quot; data-context=&quot;true&quot; href=&quot;https://www.flickr.com/photos/49424339@N02/35813103324/in/album-72157687666082536/&quot; title=&quot;Ironman Hamburg 2017&quot;&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4413/35813103324_37c528f271_n.jpg&quot; width=&quot;240&quot; height=&quot;320&quot; alt=&quot;Ironman Hamburg 2017&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Swim happend in Hamburger Binnen Alster and Alster, which is lovely lake in center of the city. Below you can see photo of Binnen Alster by night.&lt;/p&gt;
 
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/49424339@N02/36251942620/in/album-72157687666082536/&quot; title=&quot;Untitled&quot;&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4378/36251942620_e29c9ea405_c.jpg&quot; width=&quot;800&quot; height=&quot;599&quot; alt=&quot;Untitled&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Below you mind find video from the swimming start.&lt;/p&gt;
+&lt;center&gt;
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;7&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:28.10185185185185% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BXw4Ug1Fq_Q/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Start of swim part #ironmanhamburg&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A post shared by Andi (@andi_triathlon) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2017-08-14T06:14:00+00:00&quot;&gt;Aug 13, 2017 at 11:14pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+&lt;/center&gt;
+
+&lt;center&gt;&lt;iframe height=&quot;405&quot; width=&quot;590&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/activities/1144371585/embed/bccc74ebb5756d2bbbeb81d64ed97ed58f33f088&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;bike---0542&quot;&gt;BIKE - 05:42&lt;/h2&gt;
+&lt;p&gt;The bike course was a two looped course. The vertical total climb was approx. 1.000m (approx.. 500m per loop). I really enjoyed the ride. Average of 32kmph is OK. I ate and drink a lot on bike.&lt;/p&gt;
+
+&lt;center&gt;&lt;iframe height=&quot;405&quot; width=&quot;590&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/activities/1132192366/embed/bf24f1cb23aec531095ec168fbb6f655cd7ef6e0&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;run---0436&quot;&gt;RUN - 04:36&lt;/h2&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/49424339@N02/35838744303&quot; title=&quot;Ironman Hamburg 2017&quot;&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4344/35838744303_4ab89c7039_c.jpg&quot; width=&quot;800&quot; height=&quot;614&quot; alt=&quot;Ironman Hamburg 2017&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;At the photo me after first out of 4 loops. Till 20k I was estimated to finish the race in about 10:30h Yeah men, but marathon is about some 42k 😂 since 24k to 37k I was mostly walking. Legs just stopped to work with me, and were not intrested in any cooperation. Even fuckin Galloway was not a choice. Very humiliating expirience. Last time I had to walk was 2016 on marathon, but it happend because of contusion. Never expirienced need of walk in any of 70.3 triathlons. Yeah men… but this is an IRONMAN. I manage to force myself for last kilometers to run, and it worked again. This was great. Maybe I pushed little too hard on bike? Although avg of 32kmph does not sounds crazy fast. Maybe more cushioned shoes will work better? Maybe some better running technique? Probbably none of this would make signiffciant difference. I was not right prepared in terms of endurance. Too little long brick sessions. Hopefully next year I come back to Hamburg for a revange! This year running a marathon took me fuckin long 4:36&lt;/p&gt;
+
+&lt;center&gt;&lt;iframe height=&quot;405&quot; width=&quot;590&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/activities/1132192368/embed/4df40e831a0925535256ce6bcc3cc20f812a2294&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;114354---i-done-it&quot;&gt;11:43:54 - I done it!&lt;/h2&gt;
+
+&lt;h1 id=&quot;after-114354-i-reached-the-finish-line&quot;&gt;After 11:43:54 I reached the finish line.&lt;/h1&gt;
+
+&lt;p&gt;Ironman debut done. A bit of disappointment with my performance still in my heart. Learned an Ironman the hard way.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/49424339@N02/35900239833&quot; title=&quot;Ironman Hamburg 2017&quot;&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4397/35900239833_2045220504_c.jpg&quot; width=&quot;600&quot; height=&quot;800&quot; alt=&quot;Ironman Hamburg 2017&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
+
+&lt;h1 id=&quot;still-in-love-with-swim-bike-and-run-&quot;&gt;Still in love with swim, bike and run 🏊🚴🏃&lt;/h1&gt;
+
+&lt;p&gt;Your first Ironman should be about fun and main goal “complete” rather than “compete”. Don’t plan your time goals.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/49424339@N02/35813103324/in/album-72157687666082536&quot; title=&quot;Ironman Hamburg 2017&quot;&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4413/35813103324_37c528f271_c.jpg&quot; width=&quot;600&quot; height=&quot;800&quot; alt=&quot;Ironman Hamburg 2017&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/center&gt;
 </description>
-        <pubDate>Wed, 12 Jul 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2017/07/12/quote-of-the-day-12072017.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/07/12/quote-of-the-day-12072017.html</guid>
+        <pubDate>Mon, 21 Aug 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html</guid>
         
         
       </item>
