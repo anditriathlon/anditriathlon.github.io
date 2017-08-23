@@ -102,7 +102,53 @@ Ironman debut done. A bit of disappointment with my performance still in my hear
 Still in love with swim, bike and run 🏊🚴🏃
 =============================================
 
-Your first Ironman should be about fun and main goal "complete" rather than "compete". Don't plan your time goals. 
+Your first Ironman should be about fun and main goal "complete" rather than "compete". 
+
+Don't plan your time goals. Just enjoy the moment!
 
 <center>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/49424339@N02/36563173712" title="Ironman Hamburg 2017"><img src="https://farm5.staticflickr.com/4431/36563173712_5d1728dd41_b.jpg" width="627" height="1024" alt="Ironman Hamburg 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+
+
+Big THANKS !
+------------
+
+last but not least I would like to say THANK YOU to few people supporting me on the way to becoming an Ironman.
+
+
+Kasia
+=====
+
+My wonderful grilfriend (btw my fiancée now 😍 got engaged after passing the finish line) [Kasia Hutny - swimming coach](http://activity.waw.pl/trener.php?id=108,kasia-hutny).
+
+* Thanks for **being so much understanding every day.**
+* Thanks for **your patience.**
+* Thanks for **swimming tips**. I know I could do better, but we both know that 
+being coached and being in relationship isn't easy :)
+* Thanks for **founding me a sport nutrition consultation, and support in changing my eating habits**
+* Thanks for **being great 1-person support team at Ironman Hamburg**
+
+
+<center><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BXw_PowFDHZ/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">She said YES. I become One, and she become One. For each other. 😍 #love #engagementring #ironman #trilife #couplesgoals #couple #hamburg #ironmanhamburg #engagement</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by Andi (@andi_triathlon) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-08-14T07:14:30+00:00">Aug 14, 2017 at 12:14am PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script></center>
+
+
+Others:
+=======
+
+[MKON - Marcin Konieczny](http://niemaniemoge.pl/o-mnie/) (polish triathlon guru, extremly talented age grouper, Ironman sub 9h, IRONMAN World Championship Hawaii qualifier)
+
+**Thanks Marcin for mentoring, and answers to plethora of my questions regarding training, logistic, and races**
+
+
+[Mikołaj Luft](https://www.facebook.com/mikolaj.luft) polish pro triathlete, triathlon coach
+
+**Thanks Mikołaj for sharing with me a lot of swim-bike-run tips and tricks during [Luft Tri Team](https://www.facebook.com/LuftTriTeam/) camp in Szklarska Poręba. It was really productive time.** 
+
+[Damian Witkowski](http://treningibiegowe.pl/) ex pro runner, running coach
+
+**Thanks Damian for sharing your deep running knowledgewith me**
+
+
+[Jagoda Podkowska](http://www.highleveldiet.com/o-mnie) sports nutritionist
+
+**Thanks Jagoda for helping me eating as I should** The provided by you and your team suggestions and menu were easy to apply and just worked! Reduced my weight by feeling even better and more powerfull on the trainings.
