@@ -1,5 +1,6 @@
 ---
 title: Fastest 10k
+thumb: https://farm6.staticflickr.com/5707/30291492533_783ee5627a_c.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Lanzarote - the island of triathlon
+thumb: https://scontent-frt3-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14309675_346979008975151_160222474_n.jpg
 ---
 
 In september 2016 I spent 2 weeks on sunny, but very windy Lanzarote. In the middle of second week I took part in Ironman 70.3 Lanzarote triathlon. About this event I will write in a seperate blog post.

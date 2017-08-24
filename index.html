@@ -9,11 +9,13 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <img src="{{ post.thumb }}" style="width: 100px; height: 100px;  object-fit: cover; vertical-align: middle;">
+        <span style="display: inline-block; vertical-align: middle;">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          </span>
       </li>
     {% endfor %}
   </ul>
