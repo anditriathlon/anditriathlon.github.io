@@ -9,7 +9,7 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <img src="{{ post.thumb }}" style="width: 100px; height: 100px;  object-fit: cover; vertical-align: middle;">
+        <img src="{{ post.thumb }}" style="width: 100px; height: 100px;  object-fit: cover; vertical-align: middle; margin-right: 20px">
         <span style="display: inline-block; vertical-align: middle;">
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <h2>

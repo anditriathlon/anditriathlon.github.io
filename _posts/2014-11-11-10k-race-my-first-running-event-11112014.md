@@ -1,5 +1,5 @@
 ---
-title: first running event at 10k - 11 November 2014
+title: first running event ever
 thumb: https://farm6.staticflickr.com/5727/22717411251_d0f8aeb174_c.jpg
 ---
 
