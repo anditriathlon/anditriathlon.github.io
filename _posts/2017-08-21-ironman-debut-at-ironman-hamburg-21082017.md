@@ -1,5 +1,5 @@
 ---
-title: My first Ironman
+title: My first Ironman - Ironman Hamburg 2017
 ---
 
 13 August 2017 I finished my first triathlon on the distance of 140.6 miles. 
