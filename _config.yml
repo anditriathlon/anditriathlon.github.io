@@ -1,7 +1,3 @@
-tag_page_layout: tag_page
-tag_page_dir: tag
-
-
 # Site settings
 title: anditriathlon
 email: andi@anditriathlon.com
@@ -11,10 +7,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anditriathlon.github.io" # the base hostname & protocol for your site
 instagram_username: andi_triathlon
 
+plugins:
+  - jekyll-tagging
 
 # Build settings
 markdown: kramdown
 excerpt_separator: ""
 theme: jekyll-theme-merlot
 
+tag_page_layout: tag_page
+tag_page_dir: tag
 
