@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anditriathlon.github.io" # the base hostname & protocol for your site
 instagram_username: andi_triathlon
 
-#plugins:
-#  - jekyll-tagging
+plugins:
+  - jekyll-tagging
 
 # Build settings
 markdown: kramdown
