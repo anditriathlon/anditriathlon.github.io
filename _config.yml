@@ -1,3 +1,7 @@
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+
 # Site settings
 title: anditriathlon
 email: andi@anditriathlon.com
@@ -13,6 +17,4 @@ markdown: kramdown
 excerpt_separator: ""
 theme: jekyll-theme-merlot
 
-tag_page_layout: tag_page
-tag_page_dir: tag
 
