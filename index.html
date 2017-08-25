@@ -11,10 +11,11 @@ layout: default
       <li>
         <img src="{{ post.thumb }}" style="width: 100px; height: 100px;  object-fit: cover; vertical-align: middle; margin-right: 20px">
         <span style="display: inline-block; vertical-align: middle;">
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <h4> {{ post | tags }}</h4>
           </span>
       </li>
     {% endfor %}
@@ -23,3 +24,9 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+<h2>{{ page.tag }}</h2>
+<ul>
+{% for post in page.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }} | Tags: {{ post | tags }})</li>
+{% endfor %}
+</ul>

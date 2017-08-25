@@ -1,6 +1,7 @@
 ---
 title: First long runs at polish peninsula Hel
 thumb: https://scontent-frt3-1.cdninstagram.com/t51.2885-15/e15/10859944_864609003560393_1893967049_n.jpg
+tags: hel run long-run running-with-dog
 ---
 
 

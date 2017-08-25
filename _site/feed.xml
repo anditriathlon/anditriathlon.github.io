@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Aug 2017 13:51:31 +0200</pubDate>
-    <lastBuildDate>Fri, 25 Aug 2017 13:51:31 +0200</lastBuildDate>
+    <pubDate>Fri, 25 Aug 2017 17:18:32 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Aug 2017 17:18:32 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -159,6 +159,20 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <link>http://localhost:4000/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html</guid>
         
+        <category>ironman</category>
+        
+        <category>triathlon</category>
+        
+        <category>first-ironman</category>
+        
+        <category>ironman-hamburg</category>
+        
+        <category>hamburg</category>
+        
+        <category>mkon</category>
+        
+        <category>nie-ma-nie-mogę</category>
+        
         
       </item>
     
@@ -189,6 +203,14 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <link>http://localhost:4000/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html</guid>
         
+        <category>ironman-70-3</category>
+        
+        <category>triathlon</category>
+        
+        <category>susz</category>
+        
+        <category>personal-best</category>
+        
         
       </item>
     
@@ -205,6 +227,14 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <pubDate>Sun, 09 Apr 2017 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2017/04/09/paris-marathon-new-personal-best-09042017.html</link>
         <guid isPermaLink="true">http://localhost:4000/2017/04/09/paris-marathon-new-personal-best-09042017.html</guid>
+        
+        <category>personal-best</category>
+        
+        <category>marathon</category>
+        
+        <category>42k</category>
+        
+        <category>paris-marathon</category>
         
         
       </item>
@@ -250,6 +280,16 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <link>http://localhost:4000/2016/12/31/2016-summary-31122016.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/12/31/2016-summary-31122016.html</guid>
         
+        <category>running</category>
+        
+        <category>triathlon</category>
+        
+        <category>ironman-70-3</category>
+        
+        <category>skitouring</category>
+        
+        <category>ironman-70-3-gdynia</category>
+        
         
       </item>
     
@@ -276,6 +316,14 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <pubDate>Fri, 11 Nov 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html</guid>
+        
+        <category>10k</category>
+        
+        <category>personal-best</category>
+        
+        <category>run</category>
+        
+        <category>bieg-niepodległości</category>
         
         
       </item>
@@ -325,6 +373,16 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <pubDate>Sat, 24 Sep 2016 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2016/09/24/ironman-lanzarote-70-3.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/09/24/ironman-lanzarote-70-3.html</guid>
+        
+        <category>lanzarote</category>
+        
+        <category>triathlon</category>
+        
+        <category>training</category>
+        
+        <category>club-la-sante</category>
+        
+        <category>ironman-70-3</category>
         
         
       </item>
@@ -445,6 +503,16 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <link>http://localhost:4000/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html</link>
         <guid isPermaLink="true">http://localhost:4000/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html</guid>
         
+        <category>lanzarote</category>
+        
+        <category>triathlon</category>
+        
+        <category>training</category>
+        
+        <category>club-la-sante</category>
+        
+        <category>ironman-70-3</category>
+        
         
       </item>
     
@@ -510,6 +578,12 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <link>http://localhost:4000/2015/04/26/my-first-marathon-26042015.html</link>
         <guid isPermaLink="true">http://localhost:4000/2015/04/26/my-first-marathon-26042015.html</guid>
         
+        <category>marathon</category>
+        
+        <category>orlen-warsaw-marathon</category>
+        
+        <category>first-marathon</category>
+        
         
       </item>
     
@@ -564,6 +638,14 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <link>http://localhost:4000/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html</link>
         <guid isPermaLink="true">http://localhost:4000/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html</guid>
         
+        <category>hel</category>
+        
+        <category>run</category>
+        
+        <category>long-run</category>
+        
+        <category>running-with-dog</category>
+        
         
       </item>
     
@@ -583,6 +665,12 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <pubDate>Tue, 11 Nov 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2014/11/11/10k-race-my-first-running-event-11112014.html</link>
         <guid isPermaLink="true">http://localhost:4000/2014/11/11/10k-race-my-first-running-event-11112014.html</guid>
+        
+        <category>run</category>
+        
+        <category>10k</category>
+        
+        <category>bieg-niepodległości</category>
         
         
       </item>

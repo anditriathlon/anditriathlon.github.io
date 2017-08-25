@@ -1,8 +1,8 @@
 ---
 title: first running event ever
 thumb: https://farm6.staticflickr.com/5727/22717411251_d0f8aeb174_c.jpg
+tags: run 10k bieg-niepodległości
 ---
-
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/49424339@N02/22717411251/in/album-72157660636941126/" title="Untitled"><img src="https://farm6.staticflickr.com/5727/22717411251_d0f8aeb174_c.jpg" width="800" height="534" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

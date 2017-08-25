@@ -1,6 +1,7 @@
 ---
 title: Ironman 70.3 Lanzarote 2016
 thumb: https://farm5.staticflickr.com/4393/36774033865_539e0c38ac.jpg
+tags: lanzarote triathlon training club-la-sante ironman-70-3
 ---
 
 
