@@ -43,13 +43,21 @@ Lanzarote is wondferful spot for cyclists offering great roads with stunning moo
 BE AWARE: side winds on Lanzarote can be very strong so using a high rim aero wheels may make you feel uncomfortable especially by fast downhills on this hilly island. I came there with my 81mm reynolds storm aero wheels and decided to buy plain aluminium front wheel to feel safer on the bike.
 
 
-If you need some cycling equipment one can find some shops mostly in island's capital Arrecife:
-* **Tribike Lanzarote** Address: Calle Manolo Millares, 114, 35500 Arrecife
-* **Dechatlon** Address: Calle Vicente Vilas, 5, Zona comercial Argana, 35500 Arrecife
-* **Specialized SOLO DE BICI CONCEPT STORE** Address: C/ Júpiter, 2
-35500 Arrecife
+If you need some cycling/triathlon equipment:
 
-* **Pro Bici Lanzarote** Address: Calle Encarnación 14 35560 La Santa (near Club La Santa)
+- Puerto del Carmen
+
+	* **Tripasion** Calle Alegranza, 35510 Puerto del Carme [Tripassion facebook fanpage](https://www.facebook.com/Tripasion/) - this shop is very good equiped - RECOMEND IT!
+
+
+- La Santa:
+
+	* **Pro Bici Lanzarote** Address: Calle Encarnación 14 35560 La Santa (near Club La Santa)
+
+
+- Arrecife:
+
+	* **Tribike Lanzarote** Address: Calle Manolo Millares, 114, 35500 Arrecife
 
 Impressions
 -----------
