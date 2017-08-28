@@ -6,17 +6,19 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
+  <ul class="post-list" style="display: table; border-spacing: 15px">
     {% for post in site.posts %}
-      <li>
-        <img src="{{ post.thumb }}" style="width: 100px; height: 100px;  object-fit: cover; vertical-align: middle; margin-right: 20px">
-        <span style="display: inline-block; vertical-align: middle;">
+      <li style="display: table-row;">
+          <div style="display: table-cell; width: 200px">
+              <img src="{{ post.thumb }}" style="width: 150px; height: 150px; margin-right: 20px;  object-fit: cover;">
+          </div>
+          <div style="display: table-cell; vertical-align: top">
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <h2>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
             <h4> {{ post | tags }}</h4>
-          </span>
+          </div>
       </li>
     {% endfor %}
   </ul>
