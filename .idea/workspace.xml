@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d01d641-bc12-44ef-b3ae-bc0e6abf226e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-the-hard-way-triathlon-training-is-not-just-about-swim-bike-run.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" afterPath="$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" afterPath="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" afterPath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" afterPath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" afterPath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" afterPath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" afterPath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" afterPath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" afterPath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" afterPath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" />
@@ -17,22 +19,32 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" afterPath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" afterPath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about-me/index.html" afterPath="$PROJECT_DIR$/_site/about-me/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/deploy.sh" afterPath="$PROJECT_DIR$/_site/deploy.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/results/index.html" afterPath="$PROJECT_DIR$/_site/results/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/strava/index.html" afterPath="$PROJECT_DIR$/_site/strava/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/10k.html" afterPath="$PROJECT_DIR$/_site/tag/10k.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/42k.html" afterPath="$PROJECT_DIR$/_site/tag/42k.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/achilles.html" afterPath="$PROJECT_DIR$/_site/tag/achilles.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" afterPath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/blackroll.html" afterPath="$PROJECT_DIR$/_site/tag/blackroll.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/calf.html" afterPath="$PROJECT_DIR$/_site/tag/calf.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/club-la-sante.html" afterPath="$PROJECT_DIR$/_site/tag/club-la-sante.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/first-ironman.html" afterPath="$PROJECT_DIR$/_site/tag/first-ironman.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/first-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/first-marathon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/glutes.html" afterPath="$PROJECT_DIR$/_site/tag/glutes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hamburg.html" afterPath="$PROJECT_DIR$/_site/tag/hamburg.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hamstring.html" afterPath="$PROJECT_DIR$/_site/tag/hamstring.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/health.html" afterPath="$PROJECT_DIR$/_site/tag/health.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hel.html" afterPath="$PROJECT_DIR$/_site/tag/hel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" afterPath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman.html" afterPath="$PROJECT_DIR$/_site/tag/ironman.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/itbs.html" afterPath="$PROJECT_DIR$/_site/tag/itbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" afterPath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/lanzarote.html" afterPath="$PROJECT_DIR$/_site/tag/lanzarote.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/long-run.html" afterPath="$PROJECT_DIR$/_site/tag/long-run.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/marathon.html" afterPath="$PROJECT_DIR$/_site/tag/marathon.html" />
@@ -41,6 +53,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/paris-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/paris-marathon.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/personal-best.html" afterPath="$PROJECT_DIR$/_site/tag/personal-best.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/personal-worst.html" afterPath="$PROJECT_DIR$/_site/tag/personal-worst.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/physiotherapist.html" afterPath="$PROJECT_DIR$/_site/tag/physiotherapist.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/physiotherapy.html" afterPath="$PROJECT_DIR$/_site/tag/physiotherapy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/quads.html" afterPath="$PROJECT_DIR$/_site/tag/quads.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/roller.html" afterPath="$PROJECT_DIR$/_site/tag/roller.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/rolling.html" afterPath="$PROJECT_DIR$/_site/tag/rolling.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/run.html" afterPath="$PROJECT_DIR$/_site/tag/run.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/running-with-dog.html" afterPath="$PROJECT_DIR$/_site/tag/running-with-dog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/running.html" afterPath="$PROJECT_DIR$/_site/tag/running.html" />
@@ -72,7 +90,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5172415">
+            <state vertical-scroll-proportion="-5.3333335">
               <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
@@ -85,31 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".nojekyll" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.nojekyll">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -118,7 +116,7 @@
       <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
@@ -128,28 +126,38 @@
       <file leaf-file-name="2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.935484">
+            <state vertical-scroll-proportion="0.0">
               <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57649666">
-              <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md">
+      <file leaf-file-name="2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+            <state vertical-scroll-proportion="-14.229508">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.035587188">
+              <caret line="3" column="188" selection-start-line="3" selection-start-column="188" selection-end-line="3" selection-end-column="188" />
               <folding />
             </state>
           </provider>
@@ -159,7 +167,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+              <caret line="3" column="47" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -183,7 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -194,6 +201,12 @@
         <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failure-attempt-to-break-4-hours-in-marathon.md" />
         <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" />
         <option value="$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-09-skitour-przelecz-pod-kopa-kondracka-09022017.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
       </list>
     </option>
   </component>
@@ -204,9 +217,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1985" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -233,8 +246,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -276,6 +289,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -504,14 +522,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23161969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2371476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -527,6 +545,27 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2371476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -544,27 +583,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +640,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -628,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,7 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +721,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -708,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,7 +794,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -780,7 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -788,7 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -796,7 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -820,7 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -828,15 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -891,14 +902,14 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
@@ -912,25 +923,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5172415">
+        <state vertical-scroll-proportion="-5.3333335">
           <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
@@ -944,7 +939,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.935484">
+        <state vertical-scroll-proportion="0.0">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
@@ -952,8 +947,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57649666">
-          <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.079822615">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85583526">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.229508">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035587188">
+          <caret line="3" column="188" selection-start-line="3" selection-start-column="188" selection-end-line="3" selection-end-column="188" />
           <folding />
         </state>
       </provider>
