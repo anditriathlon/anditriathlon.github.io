@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d01d641-bc12-44ef-b3ae-bc0e6abf226e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" afterPath="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" afterPath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" afterPath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" afterPath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" afterPath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" afterPath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" afterPath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" afterPath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" afterPath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" afterPath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" afterPath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" afterPath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" afterPath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about-me/index.html" afterPath="$PROJECT_DIR$/_site/about-me/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/deploy.sh" afterPath="$PROJECT_DIR$/_site/deploy.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/results/index.html" afterPath="$PROJECT_DIR$/_site/results/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/strava/index.html" afterPath="$PROJECT_DIR$/_site/strava/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/10k.html" afterPath="$PROJECT_DIR$/_site/tag/10k.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/42k.html" afterPath="$PROJECT_DIR$/_site/tag/42k.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/achilles.html" afterPath="$PROJECT_DIR$/_site/tag/achilles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" afterPath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/blackroll.html" afterPath="$PROJECT_DIR$/_site/tag/blackroll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/calf.html" afterPath="$PROJECT_DIR$/_site/tag/calf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/club-la-sante.html" afterPath="$PROJECT_DIR$/_site/tag/club-la-sante.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/first-ironman.html" afterPath="$PROJECT_DIR$/_site/tag/first-ironman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/first-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/first-marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/glutes.html" afterPath="$PROJECT_DIR$/_site/tag/glutes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hamburg.html" afterPath="$PROJECT_DIR$/_site/tag/hamburg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hamstring.html" afterPath="$PROJECT_DIR$/_site/tag/hamstring.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/health.html" afterPath="$PROJECT_DIR$/_site/tag/health.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hel.html" afterPath="$PROJECT_DIR$/_site/tag/hel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" afterPath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman.html" afterPath="$PROJECT_DIR$/_site/tag/ironman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/itbs.html" afterPath="$PROJECT_DIR$/_site/tag/itbs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" afterPath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/lanzarote.html" afterPath="$PROJECT_DIR$/_site/tag/lanzarote.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/long-run.html" afterPath="$PROJECT_DIR$/_site/tag/long-run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/marathon.html" afterPath="$PROJECT_DIR$/_site/tag/marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/mkon.html" afterPath="$PROJECT_DIR$/_site/tag/mkon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" afterPath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/paris-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/paris-marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/personal-best.html" afterPath="$PROJECT_DIR$/_site/tag/personal-best.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/personal-worst.html" afterPath="$PROJECT_DIR$/_site/tag/personal-worst.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/physiotherapist.html" afterPath="$PROJECT_DIR$/_site/tag/physiotherapist.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/physiotherapy.html" afterPath="$PROJECT_DIR$/_site/tag/physiotherapy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/quads.html" afterPath="$PROJECT_DIR$/_site/tag/quads.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/roller.html" afterPath="$PROJECT_DIR$/_site/tag/roller.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/rolling.html" afterPath="$PROJECT_DIR$/_site/tag/rolling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/run.html" afterPath="$PROJECT_DIR$/_site/tag/run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/running-with-dog.html" afterPath="$PROJECT_DIR$/_site/tag/running-with-dog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/running.html" afterPath="$PROJECT_DIR$/_site/tag/running.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/skitouring.html" afterPath="$PROJECT_DIR$/_site/tag/skitouring.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/susz.html" afterPath="$PROJECT_DIR$/_site/tag/susz.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/training.html" afterPath="$PROJECT_DIR$/_site/tag/training.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/triathlon.html" afterPath="$PROJECT_DIR$/_site/tag/triathlon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
     </list>
     <ignored path="anditriathlon.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.11374407">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -153,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.035587188">
-              <caret line="3" column="188" selection-start-line="3" selection-start-column="188" selection-end-line="3" selection-end-column="188" />
+            <state vertical-scroll-proportion="-15.4838705">
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -195,7 +132,6 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-the-hard-way-triathlon-training-is-not-just-about-swim-bike-run.md" />
         <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failure-attempt-to-break-4-hours-in-marathon.md" />
@@ -207,6 +143,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
+        <option value="$PROJECT_DIR$/deploy.sh" />
       </list>
     </option>
   </component>
@@ -907,14 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -987,8 +916,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035587188">
-          <caret line="3" column="188" selection-start-line="3" selection-start-column="188" selection-end-line="3" selection-end-column="188" />
+        <state vertical-scroll-proportion="-15.4838705">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11374407">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
         </state>
       </provider>
