@@ -2,71 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d01d641-bc12-44ef-b3ae-bc0e6abf226e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" afterPath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" afterPath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" afterPath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" afterPath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" afterPath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" afterPath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" afterPath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" afterPath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" afterPath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" afterPath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" afterPath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" afterPath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about-me/index.html" afterPath="$PROJECT_DIR$/_site/about-me/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/deploy.sh" afterPath="$PROJECT_DIR$/_site/deploy.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/results/index.html" afterPath="$PROJECT_DIR$/_site/results/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/strava/index.html" afterPath="$PROJECT_DIR$/_site/strava/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/10k.html" afterPath="$PROJECT_DIR$/_site/tag/10k.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/42k.html" afterPath="$PROJECT_DIR$/_site/tag/42k.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/achilles.html" afterPath="$PROJECT_DIR$/_site/tag/achilles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" afterPath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/blackroll.html" afterPath="$PROJECT_DIR$/_site/tag/blackroll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/calf.html" afterPath="$PROJECT_DIR$/_site/tag/calf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/club-la-sante.html" afterPath="$PROJECT_DIR$/_site/tag/club-la-sante.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/first-ironman.html" afterPath="$PROJECT_DIR$/_site/tag/first-ironman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/first-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/first-marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/glutes.html" afterPath="$PROJECT_DIR$/_site/tag/glutes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hamburg.html" afterPath="$PROJECT_DIR$/_site/tag/hamburg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hamstring.html" afterPath="$PROJECT_DIR$/_site/tag/hamstring.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/health.html" afterPath="$PROJECT_DIR$/_site/tag/health.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/hel.html" afterPath="$PROJECT_DIR$/_site/tag/hel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" afterPath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/ironman.html" afterPath="$PROJECT_DIR$/_site/tag/ironman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/itbs.html" afterPath="$PROJECT_DIR$/_site/tag/itbs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" afterPath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/lanzarote.html" afterPath="$PROJECT_DIR$/_site/tag/lanzarote.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/long-run.html" afterPath="$PROJECT_DIR$/_site/tag/long-run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/marathon.html" afterPath="$PROJECT_DIR$/_site/tag/marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/mkon.html" afterPath="$PROJECT_DIR$/_site/tag/mkon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" afterPath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/paris-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/paris-marathon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/personal-best.html" afterPath="$PROJECT_DIR$/_site/tag/personal-best.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/personal-worst.html" afterPath="$PROJECT_DIR$/_site/tag/personal-worst.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/physiotherapist.html" afterPath="$PROJECT_DIR$/_site/tag/physiotherapist.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/physiotherapy.html" afterPath="$PROJECT_DIR$/_site/tag/physiotherapy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/quads.html" afterPath="$PROJECT_DIR$/_site/tag/quads.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/roller.html" afterPath="$PROJECT_DIR$/_site/tag/roller.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/rolling.html" afterPath="$PROJECT_DIR$/_site/tag/rolling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/run.html" afterPath="$PROJECT_DIR$/_site/tag/run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/running-with-dog.html" afterPath="$PROJECT_DIR$/_site/tag/running-with-dog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/running.html" afterPath="$PROJECT_DIR$/_site/tag/running.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/skitouring.html" afterPath="$PROJECT_DIR$/_site/tag/skitouring.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/susz.html" afterPath="$PROJECT_DIR$/_site/tag/susz.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/training.html" afterPath="$PROJECT_DIR$/_site/tag/training.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/triathlon.html" afterPath="$PROJECT_DIR$/_site/tag/triathlon.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/offer.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md" afterPath="$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-18-first-long-runs-at-polish-peninsula-Hel--18122014.md" afterPath="$PROJECT_DIR$/_posts/2014-12-18-first-long-runs-at-polish-peninsula-Hel--18122014.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-26-my-first-marathon-26042015.md" afterPath="$PROJECT_DIR$/_posts/2015-04-26-my-first-marathon-26042015.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" afterPath="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" afterPath="$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" afterPath="$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-09-24-ironman-lanzarote-70-3.md" afterPath="$PROJECT_DIR$/_posts/2016-09-24-ironman-lanzarote-70-3.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-11-fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.md" afterPath="$PROJECT_DIR$/_posts/2016-11-11-fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" afterPath="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" afterPath="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" afterPath="$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md" afterPath="$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-06-25-susz-triathlon-new-personal-best-ironman-70-3-25062017.md" afterPath="$PROJECT_DIR$/_posts/2017-06-25-susz-triathlon-new-personal-best-ironman-70-3-25062017.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" afterPath="$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
+      <change beforePath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" afterPath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" afterPath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" afterPath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" afterPath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" afterPath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" afterPath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" afterPath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" afterPath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" afterPath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" afterPath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" afterPath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" afterPath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" />
+      <change beforePath="$PROJECT_DIR$/_site/about-me/index.html" afterPath="$PROJECT_DIR$/_site/about-me/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/ST_Contains_examples.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/automator_translate.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/blured.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/django-admin-pick-point-for-geodjango.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/emoji-rating/demo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/iterm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/iterm_smart.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/map-points.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/punycode-fake-apple-website.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/secure-shell-google-chrome.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/seems-legit.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/teamocil-demo/databases.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/teamocil-demo/django.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/teamocil-demo/frontend.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/results.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/results/index.html" afterPath="$PROJECT_DIR$/_site/results/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/strava/index.html" afterPath="$PROJECT_DIR$/_site/strava/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/10k.html" afterPath="$PROJECT_DIR$/_site/tag/10k.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/42k.html" afterPath="$PROJECT_DIR$/_site/tag/42k.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/achilles.html" afterPath="$PROJECT_DIR$/_site/tag/achilles.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" afterPath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/blackroll.html" afterPath="$PROJECT_DIR$/_site/tag/blackroll.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/calf.html" afterPath="$PROJECT_DIR$/_site/tag/calf.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/club-la-sante.html" afterPath="$PROJECT_DIR$/_site/tag/club-la-sante.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/first-ironman.html" afterPath="$PROJECT_DIR$/_site/tag/first-ironman.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/first-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/first-marathon.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/glutes.html" afterPath="$PROJECT_DIR$/_site/tag/glutes.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/hamburg.html" afterPath="$PROJECT_DIR$/_site/tag/hamburg.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/hamstring.html" afterPath="$PROJECT_DIR$/_site/tag/hamstring.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/health.html" afterPath="$PROJECT_DIR$/_site/tag/health.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/hel.html" afterPath="$PROJECT_DIR$/_site/tag/hel.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" afterPath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" afterPath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/ironman.html" afterPath="$PROJECT_DIR$/_site/tag/ironman.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/itbs.html" afterPath="$PROJECT_DIR$/_site/tag/itbs.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" afterPath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/lanzarote.html" afterPath="$PROJECT_DIR$/_site/tag/lanzarote.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/long-run.html" afterPath="$PROJECT_DIR$/_site/tag/long-run.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/marathon.html" afterPath="$PROJECT_DIR$/_site/tag/marathon.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/mkon.html" afterPath="$PROJECT_DIR$/_site/tag/mkon.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" afterPath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/paris-marathon.html" afterPath="$PROJECT_DIR$/_site/tag/paris-marathon.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/personal-best.html" afterPath="$PROJECT_DIR$/_site/tag/personal-best.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/personal-worst.html" afterPath="$PROJECT_DIR$/_site/tag/personal-worst.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/physiotherapist.html" afterPath="$PROJECT_DIR$/_site/tag/physiotherapist.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/physiotherapy.html" afterPath="$PROJECT_DIR$/_site/tag/physiotherapy.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/quads.html" afterPath="$PROJECT_DIR$/_site/tag/quads.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/roller.html" afterPath="$PROJECT_DIR$/_site/tag/roller.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/rolling.html" afterPath="$PROJECT_DIR$/_site/tag/rolling.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/run.html" afterPath="$PROJECT_DIR$/_site/tag/run.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/running-with-dog.html" afterPath="$PROJECT_DIR$/_site/tag/running-with-dog.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/running.html" afterPath="$PROJECT_DIR$/_site/tag/running.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/skitouring.html" afterPath="$PROJECT_DIR$/_site/tag/skitouring.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/susz.html" afterPath="$PROJECT_DIR$/_site/tag/susz.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/training.html" afterPath="$PROJECT_DIR$/_site/tag/training.html" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/triathlon.html" afterPath="$PROJECT_DIR$/_site/tag/triathlon.html" />
+      <change beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
+      <change beforePath="$PROJECT_DIR$/assets/ST_Contains_examples.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/automator_translate.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/blured.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/django-admin-pick-point-for-geodjango.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/emoji-rating/demo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/iterm.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/iterm_smart.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/map-points.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/punycode-fake-apple-website.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/secure-shell-google-chrome.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/seems-legit.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/teamocil-demo/databases.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/teamocil-demo/django.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/teamocil-demo/frontend.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/results.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/results.md" afterPath="$PROJECT_DIR$/results.md" />
+      <change beforePath="$PROJECT_DIR$/strava.md" afterPath="$PROJECT_DIR$/strava.md" />
     </list>
     <ignored path="anditriathlon.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,69 +124,106 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="anditriathlon.github.io" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-              <folding>
-                <marker date="1507632494767" expanded="true" signature="1103:1104" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            <state relative-caret-position="30">
+              <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <file leaf-file-name="2016-12-31-2016-summary-31122016.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <file leaf-file-name="2016-11-11-fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-11-11-fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="66" lean-forward="false" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="77" />
+            <state relative-caret-position="30">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="2016-09-24-ironman-lanzarote-70-3.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-09-24-ironman-lanzarote-70-3.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="30">
+              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <file leaf-file-name="2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-04-26-my-first-marathon-26042015.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-04-26-my-first-marathon-26042015.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-12-18-first-long-runs-at-polish-peninsula-Hel--18122014.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-12-18-first-long-runs-at-polish-peninsula-Hel--18122014.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-11-11-10k-race-my-first-running-event-11112014.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -167,21 +247,33 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-the-hard-way-triathlon-training-is-not-just-about-swim-bike-run.md" />
         <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failure-attempt-to-break-4-hours-in-marathon.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-09-skitour-przelecz-pod-kopa-kondracka-09022017.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" />
-        <option value="$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
         <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/_includes/analytics.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/strava.md" />
+        <option value="$PROJECT_DIR$/results.md" />
+        <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/_site/offer/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/offer.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-25-susz-triathlon-new-personal-best-ironman-70-3-25062017.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-11-11-fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-09-24-ironman-lanzarote-70-3.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-04-26-my-first-marathon-26042015.md" />
+        <option value="$PROJECT_DIR$/_posts/2014-12-18-first-long-runs-at-polish-peninsula-Hel--18122014.md" />
+        <option value="$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md" />
       </list>
     </option>
   </component>
@@ -191,10 +283,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="693" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="width" value="744" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -213,44 +306,18 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anditriathlon.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anditriathlon.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anditriathlon.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anditriathlon.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anditriathlon.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anditriathlon.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anditriathlon.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anditriathlon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -265,7 +332,7 @@
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="" />
   </component>
@@ -412,90 +479,11 @@
       <option name="docutils_open_in_browser" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="anditriathlon.github.io" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="anditriathlon.github.io" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="anditriathlon.github.io" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="anditriathlon.github.io" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -518,6 +506,81 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="anditriathlon.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="anditriathlon.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="anditriathlon.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="anditriathlon.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -536,21 +599,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33117932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -559,31 +622,33 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2371476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23962805" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -601,119 +666,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.nojekyll">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
-            <marker date="1507632494767" expanded="true" signature="1103:1104" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html" />
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml" />
-    <entry file="file://$PROJECT_DIR$/.nojekyll">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <marker date="1507632494767" expanded="true" signature="1103:1104" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html" />
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html" />
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml" />
-    <entry file="file://$PROJECT_DIR$/.nojekyll">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <marker date="1507632494767" expanded="true" signature="1103:1104" ph="..." />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -737,8 +697,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
-    <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html" />
-    <entry file="file://$PROJECT_DIR$/Gemfile" />
     <entry file="file://$PROJECT_DIR$/_includes/footer.html" />
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -758,33 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <marker date="1507632494767" expanded="true" signature="1103:1104" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -792,10 +723,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="66" lean-forward="false" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/strava.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/offer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/map-points.png" />
+    <entry file="file://$PROJECT_DIR$/assets/ST_Contains_examples.png" />
+    <entry file="file://$PROJECT_DIR$/assets/seems-legit.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/secure-shell-google-chrome.png" />
+    <entry file="file://$PROJECT_DIR$/assets/django-admin-pick-point-for-geodjango.png" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -804,10 +788,199 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/results.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="216" column="35" lean-forward="false" selection-start-line="216" selection-start-column="23" selection-end-line="216" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-25-susz-triathlon-new-personal-best-ironman-70-3-25062017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="69" lean-forward="false" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-11-fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-24-ironman-lanzarote-70-3.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-04-26-my-first-marathon-26042015.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-12-18-first-long-runs-at-polish-peninsula-Hel--18122014.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="68" lean-forward="false" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding />
         </state>
       </provider>

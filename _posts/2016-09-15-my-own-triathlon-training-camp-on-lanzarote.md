@@ -1,6 +1,6 @@
 ---
 title: Lanzarote - the island of triathlon
-thumb: https://scontent-frt3-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14309675_346979008975151_160222474_n.jpg
+thumb: http://c1.staticflickr.com/1/785/40489839024_398447988a_c.jpg
 tags: feminism anti-capitalism witchcraft
 tags: lanzarote triathlon training club-la-sante ironman-70-3
 ---

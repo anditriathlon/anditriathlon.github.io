@@ -1,6 +1,6 @@
 ---
 title: SKITOUR from Kalatówki via Hala Goryczkowa to Kasprowy Wierch
-thumb: https://scontent-frt3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16585329_1314167695295633_6642686889184722944_n.jpg
+thumb: http://c1.staticflickr.com/1/788/27330093648_2fc0a88b2b_c.jpg
 tags: skitour skitouring tatry tatras foczenie skitury tpn tatrzaski-park-narodowy kasprowy-wierch skitury-kasprowy-wierch skitoury-zakopane zakopane kuźnice hala-goryczkowa kalatówkigittt
 
 ---

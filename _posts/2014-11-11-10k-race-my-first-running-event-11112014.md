@@ -1,6 +1,6 @@
 ---
 title: first running event ever
-thumb: https://farm6.staticflickr.com/5727/22717411251_d0f8aeb174_c.jpg
+thumb: http://c1.staticflickr.com/1/889/41159138442_48a7f416c5_c.jpg
 tags: run 10k bieg-niepodległości
 ---
 

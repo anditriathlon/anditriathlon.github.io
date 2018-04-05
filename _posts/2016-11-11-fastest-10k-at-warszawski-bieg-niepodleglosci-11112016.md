@@ -1,6 +1,6 @@
 ---
 title: Fastest 10k
-thumb: https://farm6.staticflickr.com/5707/30291492533_783ee5627a_c.jpg
+thumb: http://c1.staticflickr.com/1/806/27330093388_4957e7f7be_c.jpg
 tags: 10k personal-best run bieg-niepodległości
 ---
 

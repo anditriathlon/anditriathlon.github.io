@@ -1,6 +1,6 @@
 ---
 title: My first Ironman - Ironman Hamburg 2017
-thumb: https://farm5.staticflickr.com/4431/36563173712_5d1728dd41_b.jpg
+thumb: http://c1.staticflickr.com/1/871/40489839504_cf15c485a1_c.jpg
 tags: ironman triathlon first-ironman ironman-hamburg hamburg mkon nie-ma-nie-mogę
 ---
 

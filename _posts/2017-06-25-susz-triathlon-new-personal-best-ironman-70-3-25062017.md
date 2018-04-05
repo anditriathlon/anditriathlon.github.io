@@ -1,6 +1,6 @@
 ---
 title: Susz Triathlon 2017 - breaking 5 hours in Ironman 70.3
-thumb: https://scontent-frt3-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/19428948_796453417198800_632271086356004864_n.jpg
+thumb: https://c1.staticflickr.com/1/871/40489839464_baf07f87f5_b.jpg
 tags: ironman-70-3 triathlon susz personal-best
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: SKITOUR to Przełęcz pod Kopą Kondracką
-thumb: https://scontent-frt3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16789904_1343853385660636_777116517656428544_n.jpg
+thumb: http://c1.staticflickr.com/1/866/40489839404_2bb2ba45e3_z.jpg
 tags: skitour backcountry-skiing off-piste-skiing tatry tatras foczenie skitury kopa-kondracka przelecz-pod-kopa-kondracka tpn tatrzaski-park-narodowy
 ---
 

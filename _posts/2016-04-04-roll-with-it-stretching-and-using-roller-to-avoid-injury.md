@@ -1,6 +1,6 @@
 ---
 title: The roller - tool of choice to avoid injuries in triathlon training
-thumb: https://farm5.staticflickr.com/4409/36695386202_5e292bc892_c.jpg
+thumb: http://c1.staticflickr.com/1/893/40489839054_648be6205e_c.jpg
 tags: rolling roller blackroll itbs iliotibial-band-syndrome health training glutes achilles calf hamstring quads janek-wacholski physiotherapist physiotherapy
 ---
 

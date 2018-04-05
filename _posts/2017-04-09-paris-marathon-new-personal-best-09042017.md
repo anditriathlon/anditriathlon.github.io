@@ -1,6 +1,6 @@
 ---
 title: Breaking 3:30 in Paris Marathon 2017
-thumb: https://scontent-frt3-1.cdninstagram.com/t51.2885-15/sh0.08/e35/p750x750/17818995_407174362977416_7460912823753768960_n.jpg
+thumb: http://c1.staticflickr.com/1/884/40489839644_caeb2e231c_c.jpg
 tags: personal-best marathon 42k paris-marathon
 ---
 
