@@ -7,9 +7,13 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
-  {% if page.tags.size > 0 %}
-    <h4>tags: {{ page | tags | join: ', '}}</h4>
-  {% endif %}
+    <span>[
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      {% endfor %}
+    ]</span>
+
 
   </header>
 
