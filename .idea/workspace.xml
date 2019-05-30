@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4d01d641-bc12-44ef-b3ae-bc0e6abf226e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" afterDir="false" />
@@ -21,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/_site/about-me/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about-me/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/offer/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/results/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/results/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/strava/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/strava/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/tag/10k.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/10k.html" afterDir="false" />
@@ -92,8 +93,6 @@
       <change beforePath="$PROJECT_DIR$/_site/tag/warsaw.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/warsaw.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/tag/warszawa-canyon-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/warszawa-canyon-test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/tag/zakopane.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/zakopane.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offer.md" beforeDir="false" afterPath="$PROJECT_DIR$/offer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results.md" beforeDir="false" afterPath="$PROJECT_DIR$/results.md" afterDir="false" />
     </list>
     <ignored path="anditriathlon.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2704">
-              <caret line="404" column="10" selection-start-line="404" selection-start-column="10" selection-end-line="404" selection-end-column="10" />
+              <caret line="408" column="10" selection-start-line="408" selection-start-column="10" selection-end-line="408" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -294,8 +293,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gallery.html">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -330,7 +350,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -388,7 +408,6 @@
         <option value="$PROJECT_DIR$/_posts/2015-04-26-my-first-marathon-26042015.md" />
         <option value="$PROJECT_DIR$/_posts/2014-12-18-first-long-runs-at-polish-peninsula-Hel--18122014.md" />
         <option value="$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_includes/collecttags.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
@@ -396,6 +415,9 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/category.html" />
         <option value="$PROJECT_DIR$/_layouts/tag.html" />
+        <option value="$PROJECT_DIR$/gallery.md" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
   </component>
@@ -557,12 +579,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503673261881</updated>
-      <workItem from="1559243769873" duration="708000" />
+      <workItem from="1559243769873" duration="1596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="708000" />
+    <option name="totallyTimeSpent" value="1596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="6" />
@@ -635,7 +657,7 @@
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2704">
-          <caret line="404" column="10" selection-start-line="404" selection-start-column="10" selection-end-line="404" selection-end-column="10" />
+          <caret line="408" column="10" selection-start-line="408" selection-start-column="10" selection-end-line="408" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -893,16 +915,6 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="e#915#921#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -938,13 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/offer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -973,6 +978,30 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
