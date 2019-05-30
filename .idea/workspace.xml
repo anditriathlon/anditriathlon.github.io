@@ -2,8 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d01d641-bc12-44ef-b3ae-bc0e6abf226e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_layouts/instagram-gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/15/skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/15/skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/19/skitour-przelecz-pod-kopa-kondracka-19022017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/19/skitour-przelecz-pod-kopa-kondracka-19022017.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/11/21/andi-rental-premium-equipment-rental.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/21/andi-rental-premium-equipment-rental.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about-me/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about-me/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/results/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/results/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/strava/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/strava/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/10k.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/10k.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/42k.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/42k.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/achilles.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/achilles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/andirental.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/andirental.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/backcountry-skiing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/backcountry-skiing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/bike.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/bike.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/blackroll.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/blackroll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/calf.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/calf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/canyon-speedmax-cf-slx.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/canyon-speedmax-cf-slx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/canyon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/canyon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/club-la-sante.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/club-la-sante.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/first-ironman.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/first-ironman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/first-marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/first-marathon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/foczenie.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/foczenie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/glutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/glutes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/hala-goryczkowa.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/hala-goryczkowa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/hamburg.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/hamburg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/hamstring.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/hamstring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/health.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/health.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/hel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/hel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/ironman.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/ironman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/itbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/itbs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/kalatowkigittt.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/kalatowkigittt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/kasprowy-wierch.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/kasprowy-wierch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/kopa-kondracka.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/kopa-kondracka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/kuźnice.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/kuźnice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/lanzarote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/lanzarote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/long-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/long-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/marathon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/mkon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/mkon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/off-piste-skiing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/off-piste-skiing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/paris-marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/paris-marathon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/personal-best.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/personal-best.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/personal-worst.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/personal-worst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/physiotherapist.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/physiotherapist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/physiotherapy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/physiotherapy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/przelecz-pod-kopa-kondracka.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/przelecz-pod-kopa-kondracka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/quads.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/quads.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/roller.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/roller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/rolling.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/rolling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/run.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/running-with-dog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/running-with-dog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/running.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/running.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/skitour.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitour.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/skitouring.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitouring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/skitoury-zakopane.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitoury-zakopane.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/skitury-kasprowy-wierch.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitury-kasprowy-wierch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/skitury.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitury.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/speedmax-cf.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/speedmax-cf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/susz.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/susz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/tatras.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/tatras.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/tatry.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/tatry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/tatrzaski-park-narodowy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/tatrzaski-park-narodowy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/tpn.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/tpn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/triathlon-rental.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/triathlon-rental.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/triathlon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/triathlon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/warsaw.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/warsaw.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/warszawa-canyon-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/warszawa-canyon-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag/zakopane.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/zakopane.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.md" afterDir="false" />
     </list>
     <ignored path="anditriathlon.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,185 +113,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2704">
-              <caret line="408" column="10" selection-start-line="408" selection-start-column="10" selection-end-line="408" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#19832#19838#1" expanded="true" />
-                <element signature="e#19990#19996#1" expanded="true" />
-                <element signature="e#20128#20134#1" expanded="true" />
-                <element signature="e#20298#20304#1" expanded="true" />
-                <element signature="e#20446#20452#1" expanded="true" />
-                <element signature="e#20612#20618#1" expanded="true" />
-                <element signature="e#20756#20762#1" expanded="true" />
-                <element signature="e#20894#20900#1" expanded="true" />
-                <element signature="e#21028#21034#1" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#21838#21844#1" expanded="true" />
-                <element signature="e#21982#21988#1" expanded="true" />
-                <element signature="e#22134#22140#1" expanded="true" />
-                <element signature="e#22290#22296#1" expanded="true" />
-                <element signature="e#22430#22436#1" expanded="true" />
-                <element signature="e#22564#22570#1" expanded="true" />
-                <element signature="e#22720#22726#1" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#23569#23575#1" expanded="true" />
-                <element signature="e#23713#23719#1" expanded="true" />
-                <element signature="e#23847#23853#1" expanded="true" />
-                <element signature="e#23999#24005#1" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#24817#24823#1" expanded="true" />
-                <element signature="e#24959#24965#1" expanded="true" />
-                <element signature="e#25091#25097#1" expanded="true" />
-                <element signature="e#25245#25251#1" expanded="true" />
-                <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#26057#26063#1" expanded="true" />
-                <element signature="e#26219#26225#1" expanded="true" />
-                <element signature="e#26377#26383#1" expanded="true" />
-                <element signature="e#26513#26519#1" expanded="true" />
-                <element signature="e#26651#26657#1" expanded="true" />
-                <element signature="e#26793#26799#1" expanded="true" />
-                <element signature="e#26933#26939#1" expanded="true" />
-                <element signature="e#27087#27093#1" expanded="true" />
-                <element signature="e#27267#27273#1" expanded="true" />
-                <element signature="e#27399#27405#1" expanded="true" />
-                <element signature="e#27571#27577#1" expanded="true" />
-                <element signature="n#style#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#28414#28420#1" expanded="true" />
-                <element signature="e#28560#28566#1" expanded="true" />
-                <element signature="e#28696#28702#1" expanded="true" />
-                <element signature="e#28834#28840#1" expanded="true" />
-                <element signature="e#28976#28982#1" expanded="true" />
-                <element signature="e#29116#29122#1" expanded="true" />
-                <element signature="e#29248#29254#1" expanded="true" />
-                <element signature="e#29420#29426#1" expanded="true" />
-                <element signature="e#29576#29582#1" expanded="true" />
-                <element signature="e#29748#29754#1" expanded="true" />
-                <element signature="e#29908#29914#1" expanded="true" />
-                <element signature="e#30050#30056#1" expanded="true" />
-                <element signature="e#30190#30196#1" expanded="true" />
-                <element signature="e#30346#30352#1" expanded="true" />
-                <element signature="e#30500#30506#1" expanded="true" />
-                <element signature="n#style#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#31263#31269#1" expanded="true" />
-                <element signature="e#31407#31413#1" expanded="true" />
-                <element signature="e#31557#31563#1" expanded="true" />
-                <element signature="e#31703#31709#1" expanded="true" />
-                <element signature="e#31867#31873#1" expanded="true" />
-                <element signature="e#32007#32013#1" expanded="true" />
-                <element signature="n#style#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#32794#32800#1" expanded="true" />
-                <element signature="e#32946#32952#1" expanded="true" />
-                <element signature="e#33078#33084#1" expanded="true" />
-                <element signature="e#33242#33248#1" expanded="true" />
-                <element signature="n#style#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#34023#34029#1" expanded="true" />
-                <element signature="e#34167#34173#1" expanded="true" />
-                <element signature="e#34309#34315#1" expanded="true" />
-                <element signature="e#34461#34467#1" expanded="true" />
-                <element signature="e#34611#34617#1" expanded="true" />
-                <element signature="n#style#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#35423#35429#1" expanded="true" />
-                <element signature="e#35567#35573#1" expanded="true" />
-                <element signature="e#35709#35715#1" expanded="true" />
-                <element signature="e#35861#35867#1" expanded="true" />
-                <element signature="e#36011#36017#1" expanded="true" />
-                <element signature="n#style#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#36863#36869#1" expanded="true" />
-                <element signature="e#37001#37007#1" expanded="true" />
-                <element signature="e#37145#37151#1" expanded="true" />
-                <element signature="e#37279#37285#1" expanded="true" />
-                <element signature="e#37453#37459#1" expanded="true" />
-                <element signature="e#37591#37597#1" expanded="true" />
-                <element signature="e#37733#37739#1" expanded="true" />
-                <element signature="e#37871#37877#1" expanded="true" />
-                <element signature="e#38013#38019#1" expanded="true" />
-                <element signature="e#38147#38153#1" expanded="true" />
-                <element signature="e#38291#38297#1" expanded="true" />
-                <element signature="e#38427#38433#1" expanded="true" />
-                <element signature="e#38583#38589#1" expanded="true" />
-                <element signature="e#38739#38745#1" expanded="true" />
-                <element signature="e#38891#38897#1" expanded="true" />
-                <element signature="n#style#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#39757#39763#1" expanded="true" />
-                <element signature="e#39899#39905#1" expanded="true" />
-                <element signature="e#40031#40037#1" expanded="true" />
-                <element signature="e#40185#40191#1" expanded="true" />
-                <element signature="e#40325#40331#1" expanded="true" />
-                <element signature="e#40463#40469#1" expanded="true" />
-                <element signature="e#40607#40613#1" expanded="true" />
-                <element signature="e#40759#40765#1" expanded="true" />
-                <element signature="e#40893#40899#1" expanded="true" />
-                <element signature="e#41067#41073#1" expanded="true" />
-                <element signature="e#41205#41211#1" expanded="true" />
-                <element signature="e#41347#41353#1" expanded="true" />
-                <element signature="n#style#0;n#li#12;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#12;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#12;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#12;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#42122#42128#1" expanded="true" />
-                <element signature="e#42290#42296#1" expanded="true" />
-                <element signature="e#42444#42450#1" expanded="true" />
-                <element signature="n#style#0;n#li#13;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#13;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#13;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#13;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#43253#43259#1" expanded="true" />
-                <element signature="e#43385#43391#1" expanded="true" />
-                <element signature="e#43527#43533#1" expanded="true" />
-                <element signature="e#43685#43691#1" expanded="true" />
-                <element signature="n#style#0;n#li#14;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#14;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#li#14;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#14;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#44471#44477#1" expanded="true" />
-                <element signature="e#44603#44609#1" expanded="true" />
-                <element signature="e#44767#44773#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -213,18 +124,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gallery.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -232,40 +143,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/offer.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_layouts/instagram-gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-12-31-2016-summary-31122016.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md">
+        <entry file="file://$PROJECT_DIR$/strava.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor>
+                <caret selection-end-line="5" selection-end-column="3" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -284,6 +213,7 @@
     <findStrings>
       <find>offer</find>
       <find>collecttags.html</find>
+      <find>2362436988</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -299,7 +229,6 @@
         <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/_includes/analytics.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/strava.md" />
         <option value="$PROJECT_DIR$/results.md" />
         <option value="$PROJECT_DIR$/about.md" />
@@ -326,9 +255,11 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/category.html" />
         <option value="$PROJECT_DIR$/_layouts/tag.html" />
-        <option value="$PROJECT_DIR$/gallery.md" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/gallery.md" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_layouts/instagram-gallery.html" />
       </list>
     </option>
   </component>
@@ -349,6 +280,16 @@
             <path>
               <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="anditriathlon.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anditriathlon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anditriathlon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -490,16 +431,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503673261881</updated>
-      <workItem from="1559243769873" duration="2481000" />
+      <workItem from="1559243769873" duration="3939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2481000" />
+    <option name="totallyTimeSpent" value="3939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33547926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -527,7 +467,7 @@
       <window_info anchor="right" id="Database" order="6" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21485306" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33547926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -537,20 +477,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info anchor="bottom" id="Docker" order="12" visible="true" weight="0.3299923" />
+      <window_info anchor="bottom" id="Docker" order="12" weight="0.3299923" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -750,7 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strava.md" />
     <entry file="file://$PROJECT_DIR$/about.md" />
     <entry file="file://$PROJECT_DIR$/_site/offer/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -778,9 +717,7 @@
     <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html" />
     <entry file="file://$PROJECT_DIR$/results.md" />
-    <entry file="file://$PROJECT_DIR$/_includes/header.html" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-25-susz-triathlon-new-personal-best-ironman-70-3-25062017.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
@@ -796,13 +733,6 @@
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/tag_page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -817,9 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -833,13 +760,6 @@
           <folding>
             <element signature="e#560#566#1" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -893,13 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -907,13 +820,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
+    <entry file="file://$PROJECT_DIR$/strava.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <first_editor>
+            <caret selection-end-line="5" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/instagram-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
