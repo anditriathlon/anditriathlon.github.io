@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Offer
+layout: page
 order: 1
-permalink: /offer/
+permalink: "/offer/"
+published: false
 ---
-
 
 Both for individuals as well for corporate teams we can deliver consulting and coaching in following areas:
 ====
@@ -15,4 +15,3 @@ of picking best suiting and save for your body in current state form of activiti
 
 * **"DIETETX"** - changing peoples habits and making them more concious, but still remaining in "KISS" philosophy:
 keep it simple stupid, so don't worry all the needed ingriedents are about to be foun in your local store
-
