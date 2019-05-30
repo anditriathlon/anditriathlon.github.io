@@ -2,97 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d01d641-bc12-44ef-b3ae-bc0e6abf226e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/11/11/10k-race-my-first-running-event-11112014.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/12/18/first-long-runs-at-polish-peninsula-Hel-18122014.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2015/04/26/my-first-marathon-26042015.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/04/03/paris-marathon-failed-attempt-to-break-4-hours-in-marathon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/04/04/roll-with-it-stretching-and-using-roller-to-avoid-injury.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/09/15/my-own-triathlon-training-camp-on-lanzarote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/09/24/ironman-lanzarote-70-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/12/31/2016-summary-31122016.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/15/skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/15/skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/19/skitour-przelecz-pod-kopa-kondracka-19022017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/19/skitour-przelecz-pod-kopa-kondracka-19022017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/04/09/paris-marathon-new-personal-best-09042017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/06/25/susz-triathlon-new-personal-best-ironman-70-3-25062017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/08/21/ironman-debut-at-ironman-hamburg-21082017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/11/21/andi-rental-premium-equipment-rental.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/11/21/andi-rental-premium-equipment-rental.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about-me/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about-me/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/results/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/results/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/strava/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/strava/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/10k.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/10k.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/42k.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/42k.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/achilles.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/achilles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/andirental.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/andirental.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/backcountry-skiing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/backcountry-skiing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/bieg-niepodległości.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/bike.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/bike.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/blackroll.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/blackroll.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/calf.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/calf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/canyon-speedmax-cf-slx.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/canyon-speedmax-cf-slx.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/canyon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/canyon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/club-la-sante.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/club-la-sante.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/first-ironman.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/first-ironman.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/first-marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/first-marathon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/foczenie.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/foczenie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/glutes.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/glutes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/hala-goryczkowa.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/hala-goryczkowa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/hamburg.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/hamburg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/hamstring.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/hamstring.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/health.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/health.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/hel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/hel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/iliotibial-band-syndrome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3-gdynia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/ironman-70-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/ironman-hamburg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/ironman.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/ironman.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/itbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/itbs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/janek-wacholski.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/kalatowkigittt.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/kalatowkigittt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/kasprowy-wierch.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/kasprowy-wierch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/kopa-kondracka.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/kopa-kondracka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/kuźnice.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/kuźnice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/lanzarote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/lanzarote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/long-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/long-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/marathon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/mkon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/mkon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/nie-ma-nie-mogę.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/off-piste-skiing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/off-piste-skiing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/orlen-warsaw-marathon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/paris-marathon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/paris-marathon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/personal-best.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/personal-best.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/personal-worst.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/personal-worst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/physiotherapist.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/physiotherapist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/physiotherapy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/physiotherapy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/przelecz-pod-kopa-kondracka.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/przelecz-pod-kopa-kondracka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/quads.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/quads.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/roller.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/roller.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/rolling.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/rolling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/run.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/running-with-dog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/running-with-dog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/running.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/running.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/skitour.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitour.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/skitouring.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitouring.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/skitoury-zakopane.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitoury-zakopane.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/skitury-kasprowy-wierch.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitury-kasprowy-wierch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/skitury.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/skitury.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/speedmax-cf.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/speedmax-cf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/susz.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/susz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/tatras.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/tatras.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/tatry.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/tatry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/tatrzaski-park-narodowy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/tatrzaski-park-narodowy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/tpn.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/tpn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/training.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/training.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/triathlon-rental.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/triathlon-rental.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/triathlon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/triathlon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/warsaw.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/warsaw.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/warszawa-canyon-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/warszawa-canyon-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/zakopane.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/zakopane.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
     </list>
     <ignored path="anditriathlon.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -312,8 +222,8 @@
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="28" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -579,12 +489,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503673261881</updated>
-      <workItem from="1559243769873" duration="1596000" />
+      <workItem from="1559243769873" duration="1819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1596000" />
+    <option name="totallyTimeSpent" value="1819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="6" />
@@ -999,8 +909,8 @@
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="28" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
