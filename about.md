@@ -1,10 +1,11 @@
 ---
-layout: page
 title: About me
+layout: page
 order: 4
-permalink: /about-me/
+permalink: "/about-me/"
 ---
-<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/49424339@N02/33448367403/in/album-72157679779009304/" title="38_m-400517956-DIGITAL_HIGHRES-1367_017335-6991228"><img src="https://c1.staticflickr.com/3/2845/33448367403_1993d37fc4_z.jpg" width="321" height="480" alt="38_m-400517956-DIGITAL_HIGHRES-1367_017335-6991228"></a>
+
+![/me.jpg](/me.jpg)
 
 Hi! My name is Andi (Andrzej Kostanski) and I am a full-time software engineer based in Warsaw Poland. Owner of andilabs.com and amateur triathlete.
 
@@ -35,5 +36,4 @@ I made my triathlon debut on olympic distance (**1.5**km swim, **40**km bike, **
 REMEMBER: Anything is possible
 ------------------------------
 
-Doing long distance triathlon and training endurance sports in general is 
-
+Doing long distance triathlon and training endurance sports in general is

@@ -1,18 +1,8 @@
 ---
 layout: default
 ---
-<script type="text/javascript" src="{{ "/js/instafeed.min.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript">
-    var feed = new Instafeed({
-        get: 'user',
-        userId: '2362436988',
-        accessToken: '2362436988.7179641.0864391817f0409781706206c66af726'
-
-    });
-    feed.run();
-
-</script>
-
+<script type="text/javascript" src='{{ "/js/instafeed.min.js" | prepend: site.baseurl }}'></script>
+<script type="text/javascript" src='{{ "/js/my-instafeed.js" | prepend: site.baseurl }}'></script>
 <div class="post">
 
   <header class="post-header">
@@ -20,7 +10,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    <div id="instafeed"></div>
+    <div class="image-wrapper" id="instafeed"></div>
   </article>
 
 </div>

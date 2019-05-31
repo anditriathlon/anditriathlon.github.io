@@ -1,0 +1,53 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+
+    <span>[
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      {% endfor %}
+    ]</span>
+
+
+  </header>
+
+
+  <article class="post-content">
+      <h1>Result: {{page.result.total | date: "%H:%M:%S"  }}</h1>
+
+      On {{page.event.date | date: "%d %B %Y" }} in {{page.event.location}} I completed the
+      <b><a href="{{page.event.url}}" target="_blank">{{page.event.name}}</a></b>
+      {{page.event.type}}
+      in {{page.result.total | date: "%l"  }} hours
+      {{page.result.total | date: "%M"  }} minutes
+      and {{page.result.total | date: "%S"  }} seconds.
+
+      {% if page.result.rank %}
+      I ranked as:
+        <ul>
+            {% if page.result.rank.overall %}
+            <li> {{page.result.rank.overall.place }} out of {{page.result.rank.overall.out_of }} overall</li>
+            {% endif %}
+            {% if page.result.rank.gender %}
+            <li> {{page.result.rank.gender.place }} out of {{page.result.rank.gender.out_of }} by gender</li>
+            {% endif %}
+            {% if page.result.rank.age_group %}
+            <li> {{page.result.rank.age_group.place }} out of {{page.result.rank.age_group.out_of }} in {{page.result.rank.age_group.ag_name}} age group</li>
+            {% endif %}
+        </ul>
+      {% endif %}
+
+      {% if page.activity_url %}
+        <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src={{page.activity_url}}></iframe>
+      {% endif %}
+
+    {{ content }}
+  </article>
+
+</div>
