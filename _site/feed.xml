@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Jun 2019 08:26:25 +0200</pubDate>
-    <lastBuildDate>Sat, 01 Jun 2019 08:26:25 +0200</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2019 18:54:19 +0200</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2019 18:54:19 +0200</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -91,6 +91,23 @@ First time swam sub 30 minutes on half ironman, very hard pushed bike leg with N
         <category>warsaw</category>
         
         <category>bike</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lisboa marathon 2018</title>
+        <description>
+</description>
+        <pubDate>Sun, 14 Oct 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/10/14/lisboa-marathon-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/14/lisboa-marathon-2018.html</guid>
+        
+        <category>race</category>
+        
+        <category>run</category>
+        
+        <category>running</category>
         
         
       </item>
@@ -532,41 +549,6 @@ In my opinion it is still the best option to move in mountains in winter. You ha
         <category>ironman-70-3-gdynia</category>
         
         <category>skitour</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fastest 10k</title>
-        <description>&lt;h2 id=&quot;warszawski-bieg-niepodległości&quot;&gt;Warszawski Bieg Niepodległości&lt;/h2&gt;
-
-&lt;p&gt;Thi is epic event taking part in Warsaw since 1989 to celebrate &lt;a href=&quot;https://en.wikipedia.org/wiki/National_Independence_Day_(Poland)&quot;&gt;National Independency Day&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This is special for me, because in 2014 it was my very first running event. I am taking part in it each year.&lt;/p&gt;
-
-&lt;h1 id=&quot;result-2016-004000&quot;&gt;Result 2016: 00:40:00&lt;/h1&gt;
-
-&lt;iframe height=&quot;405&quot; width=&quot;590&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot; scrolling=&quot;no&quot; src=&quot;https://www.strava.com/activities/772211024/embed/701200790096e21897000f797ded1c32d18ec864&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Historical results:&lt;/p&gt;
-
-&lt;p&gt;2015: 00:47:29&lt;/p&gt;
-
-&lt;p&gt;2014: 00:59:11&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/49424339@N02/30291492533/in/album-72157672762896574/&quot; title=&quot;82684-BNW16-7745-10-000101-bnw16_01_mwd_20161111_115945_1&quot;&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5707/30291492533_783ee5627a_c.jpg&quot; width=&quot;800&quot; height=&quot;534&quot; alt=&quot;82684-BNW16-7745-10-000101-bnw16_01_mwd_20161111_115945_1&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/11/11/fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.html</guid>
-        
-        <category>10k</category>
-        
-        <category>personal-best</category>
-        
-        <category>run</category>
-        
-        <category>bieg-niepodległości</category>
         
         
       </item>
