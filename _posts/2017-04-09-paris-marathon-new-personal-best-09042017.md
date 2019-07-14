@@ -1,7 +1,7 @@
 ---
 title: Breaking 3:30 in Paris Marathon 2017
 thumb: http://c1.staticflickr.com/1/884/40489839644_caeb2e231c_c.jpg
-tags: personal-best marathon 42k paris-marathon
+tags: personal-best marathon 42k paris-marathon  activity-kasia-hutny kasia-hutny
 ---
 
 <center>
@@ -9,5 +9,6 @@ tags: personal-best marathon 42k paris-marathon
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/934410464/embed/9761945636c184aeddd01e7f1a54c59494cda92c'></iframe>
 
+<h1>Big kudos to You Kasia! </h1>
 
 </center>
