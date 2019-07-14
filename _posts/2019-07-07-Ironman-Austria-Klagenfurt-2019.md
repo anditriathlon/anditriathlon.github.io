@@ -1,7 +1,7 @@
 ---
 title: Ironman Austria 2019
 layout: tri-race
-tags: race triathlon ironman austria klagenfurt
+tags: race triathlon ironman austria klagenfurt 140.6 ironman-140.6 pełen-dystans full-ironman
 event:
   name: Ironman Austria Klagenfurt
   location: Klagenfurt am Woerthersee, Austria

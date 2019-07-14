@@ -1,7 +1,7 @@
 ---
 title: My first Ironman - Ironman Hamburg 2017
 thumb: http://c1.staticflickr.com/1/871/40489839504_cf15c485a1_c.jpg
-tags: ironman triathlon first-ironman ironman-hamburg hamburg mkon nie-ma-nie-mogę
+tags: ironman triathlon first-ironman ironman-hamburg hamburg mkon nie-ma-nie-mogę 140.6 ironman-140.6 pełen-dystans full-ironman
 ---
 
 13 August 2017 I finished my first triathlon on the distance of 140.6 miles. 

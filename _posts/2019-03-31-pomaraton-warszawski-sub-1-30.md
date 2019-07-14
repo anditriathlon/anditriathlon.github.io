@@ -2,7 +2,7 @@
 title: Półmaraton Warszawski - sub 1:30
 layout: single-sport-race
 published: true
-tags: race run running
+tags: race run running half-marathon
 thumb: pzu-polmaraton-breaking-1-30.jpg
 event:
   name: 14. PZU Półmaraton Warszawski

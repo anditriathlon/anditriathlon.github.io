@@ -2,7 +2,7 @@
 title: Lisboa marathon 2018
 layout: single-sport-race
 published: true
-tags: race run running
+tags: race run running marathon
 thumb: lisboa-marathon.jpg
 event:
   name: EDP Maratona de Lisboa

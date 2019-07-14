@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Jul 2019 19:06:33 +0200</pubDate>
-    <lastBuildDate>Thu, 11 Jul 2019 19:06:33 +0200</lastBuildDate>
+    <pubDate>Sun, 14 Jul 2019 09:13:57 +0200</pubDate>
+    <lastBuildDate>Sun, 14 Jul 2019 09:13:57 +0200</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -27,6 +27,14 @@
         <category>austria</category>
         
         <category>klagenfurt</category>
+        
+        <category>140.6</category>
+        
+        <category>ironman-140.6</category>
+        
+        <category>pełen-dystans</category>
+        
+        <category>full-ironman</category>
         
         
       </item>
@@ -58,6 +66,12 @@ First time swam sub 30 minutes on half ironman, very hard pushed bike leg with N
         
         <category>mallorca-70.3</category>
         
+        <category>ironman-70.3</category>
+        
+        <category>70.3</category>
+        
+        <category>middle-distance-triathlon</category>
+        
         
       </item>
     
@@ -77,6 +91,8 @@ First time swam sub 30 minutes on half ironman, very hard pushed bike leg with N
         <category>run</category>
         
         <category>running</category>
+        
+        <category>half-marathon</category>
         
         
       </item>
@@ -129,6 +145,8 @@ First time swam sub 30 minutes on half ironman, very hard pushed bike leg with N
         <category>run</category>
         
         <category>running</category>
+        
+        <category>marathon</category>
         
         
       </item>
@@ -296,6 +314,14 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         
         <category>nie-ma-nie-mogę</category>
         
+        <category>140.6</category>
+        
+        <category>ironman-140.6</category>
+        
+        <category>pełen-dystans</category>
+        
+        <category>full-ironman</category>
+        
         
       </item>
     
@@ -333,6 +359,12 @@ being coached and being in relationship isn’t easy :)&lt;/li&gt;
         <category>susz</category>
         
         <category>personal-best</category>
+        
+        <category>ironman-70.3</category>
+        
+        <category>70.3</category>
+        
+        <category>middle-distance-triathlon</category>
         
         
       </item>
