@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d01d641-bc12-44ef-b3ae-bc0e6abf226e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-14-lisboa-marathon-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-14-lisboa-marathon-2018.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-31-mallorca-703-2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-31-mallorca-703-2019.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/single-sport-race.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single-sport-race.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tri-race.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/tri-race.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-31-pomaraton-warszawski-sub-1-30.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-31-pomaraton-warszawski-sub-1-30.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
     </list>
     <ignored path="anditriathlon.github.io.iws" />
@@ -26,23 +26,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-14-lisboa-marathon-2018.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="420">
-                <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_layouts/tri-race.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="40" column="153" selection-start-line="40" selection-start-column="153" selection-end-line="40" selection-end-column="314" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-08-21-ironman-debut-at-ironman-hamburg-21082017.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_layouts/single-sport-race.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="34" column="261" selection-start-line="34" selection-start-column="261" selection-end-line="34" selection-end-column="261" />
             </state>
           </provider>
         </entry>
@@ -52,20 +48,18 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="45">
-                <caret line="3" column="87" lean-forward="true" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="120" />
+                <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="120" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-10-lanzarote-triathlon-training-camp-and-andirental-bike-tests.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -79,6 +73,59 @@
                 <caret line="3" column="222" selection-start-line="3" selection-start-column="222" selection-end-line="3" selection-end-column="222" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-09-24-ironman-lanzarote-70-3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-31-pomaraton-warszawski-sub-1-30.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="478">
+                <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -97,7 +144,13 @@
       <find>offer</find>
       <find>collecttags.html</find>
       <find>2362436988</find>
+      <find>page.result.rank.overall.out_of</find>
+      <find>plugins:</find>
+      <find>ironman-70-3</find>
     </findStrings>
+    <replaceStrings>
+      <replace>ironman-70.3</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,13 +158,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-the-hard-way-triathlon-training-is-not-just-about-swim-bike-run.md" />
         <option value="$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failure-attempt-to-break-4-hours-in-marathon.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-09-skitour-przelecz-pod-kopa-kondracka-09022017.md" />
         <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/_includes/analytics.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/strava.md" />
         <option value="$PROJECT_DIR$/results.md" />
         <option value="$PROJECT_DIR$/about.md" />
@@ -144,17 +194,21 @@
         <option value="$PROJECT_DIR$/_posts/2200-triathlon-event-template.md" />
         <option value="$PROJECT_DIR$/js/my-instafeed.js" />
         <option value="$PROJECT_DIR$/_posts/2200-single-sport-event-template.md" />
-        <option value="$PROJECT_DIR$/_layouts/single-sport-race.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-03-31-pomaraton-warszawski-sub-1-30.md" />
         <option value="$PROJECT_DIR$/css/main.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2019-06-01-lisboa-marathon-2018.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-07-Ironman-Austria-Klagenfurt-2019.md" />
-        <option value="$PROJECT_DIR$/_layouts/tri-race.html" />
         <option value="$PROJECT_DIR$/_posts/2018-10-14-lisboa-marathon-2018.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-31-mallorca-703-2019.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-15-skitour-kasprowy-wierch-via-hala-goryczkowa-15022017.md" />
+        <option value="$PROJECT_DIR$/_plugins/ext.rb" />
+        <option value="$PROJECT_DIR$/_plugins/ads.rb" />
+        <option value="$PROJECT_DIR$/_plugins/figure.rb" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/tri-race.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-31-pomaraton-warszawski-sub-1-30.md" />
+        <option value="$PROJECT_DIR$/_layouts/single-sport-race.html" />
       </list>
     </option>
   </component>
@@ -175,6 +229,16 @@
             <path>
               <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="anditriathlon.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anditriathlon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anditriathlon.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_plugins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="anditriathlon.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -325,13 +389,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20435000" />
+    <option name="totallyTimeSpent" value="24825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29756796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30543634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -357,7 +421,7 @@
       <window_info anchor="right" id="Database" order="6" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33547926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29756796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -395,13 +459,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/results.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-25-susz-triathlon-new-personal-best-ironman-70-3-25062017.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-11-11-fastest-10k-at-warszawski-bieg-niepodleglosci-11112016.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-24-ironman-lanzarote-70-3.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-15-my-own-triathlon-training-camp-on-lanzarote.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-04-roll-with-it-stretching-and-using-roller-to-avoid-injury.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-04-26-my-first-marathon-26042015.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2014-12-18-first-long-runs-at-polish-peninsula-Hel--18122014.md" />
     <entry file="file://$PROJECT_DIR$/offer/index.html" />
@@ -423,9 +480,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/tag.html">
@@ -463,14 +517,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-04-03-paris-marathon-failed-attempt-to-break-4-hours-in-marathon.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -591,47 +637,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2200-single-sport-event-template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/single-sport-race.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="104" selection-start-line="40" selection-start-column="104" selection-end-line="40" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-31-pomaraton-warszawski-sub-1-30.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="28" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2200-triathlon-event-template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -642,13 +651,6 @@
             <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/tri-race.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -670,12 +672,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2200-single-sport-event-template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-11-11-10k-race-my-first-running-event-11112014.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2200-triathlon-event-template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/ext.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/ads.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_plugins/figure.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/tri-race.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="40" column="153" selection-start-line="40" selection-start-column="153" selection-end-line="40" selection-end-column="314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-31-pomaraton-warszawski-sub-1-30.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="478">
+            <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/single-sport-race.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="34" column="261" selection-start-line="34" selection-start-column="261" selection-end-line="34" selection-end-column="261" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-31-mallorca-703-2019.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
-            <caret line="3" column="87" lean-forward="true" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="120" />
+            <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="120" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-10-lanzarote-triathlon-training-camp-and-andirental-bike-tests.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -690,12 +783,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-19-skitour-przelecz-pod-kopa-kondracka-19022017.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-09-paris-marathon-new-personal-best-09042017.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="195">
             <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-24-ironman-lanzarote-70-3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>

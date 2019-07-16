@@ -23,7 +23,7 @@ result:
       out_of: 9370
     age_group:
       place: 178
-      out_of: 371
+      out_of: 3429
       ag_name: M30
 activity_url: https://www.strava.com/activities/2254017464/embed/b880f7ee673dba47a57c0fe9523560f5fe851d51
 ---

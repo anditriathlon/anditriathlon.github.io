@@ -32,13 +32,13 @@ layout: default
       I ranked as:
         <ul>
             {% if page.result.rank.overall %}
-            <li> {{page.result.rank.overall.place }} out of {{page.result.rank.overall.out_of }} overall</li>
+            <li> {{page.result.rank.overall.place }} out of {{page.result.rank.overall.out_of }} overall (better than {{  page.result.rank.overall.place| times: 1.0 | divided_by: page.result.rank.overall.out_of | times: 1.0 |minus: 1 |times: -100| round: 2  }}%)</li>
             {% endif %}
             {% if page.result.rank.gender %}
-            <li> {{page.result.rank.gender.place }} out of {{page.result.rank.gender.out_of }} by gender</li>
+            <li> {{page.result.rank.gender.place }} out of {{page.result.rank.gender.out_of }} by gender (better than {{  page.result.rank.gender.place| times: 1.0 | divided_by: page.result.rank.gender.out_of | times: 1.0 |minus: 1 |times: -100| round: 2  }}%)</li>
             {% endif %}
             {% if page.result.rank.age_group %}
-            <li> {{page.result.rank.age_group.place }} out of {{page.result.rank.age_group.out_of }} in {{page.result.rank.age_group.ag_name}} age group</li>
+            <li> {{page.result.rank.age_group.place }} out of {{page.result.rank.age_group.out_of }} in {{page.result.rank.age_group.ag_name}} age group (better than {{  page.result.rank.age_group.place| times: 1.0 | divided_by: page.result.rank.age_group.out_of | times: 1.0 |minus: 1 |times: -100| round: 2  }}%)</li>
             {% endif %}
         </ul>
       {% endif %}
