@@ -1,14 +1,88 @@
 <head>
+  <!-- Required meta tags always come first -->
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width initial-scale=1">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-  {% include analytics.html %}
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="../mdb/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="../mdb/css/mdb.min.css" rel="stylesheet">
+
+  <style>
+
+    html,
+        body,
+        header,
+        .jarallax {
+          height: 700px;
+        }
+
+        @media (max-width: 740px) {
+          html,
+          body,
+          header,
+          .jarallax {
+            height: 100vh;
+          }
+        }
+
+        @media (min-width: 800px) and (max-width: 850px) {
+          html,
+          body,
+          header,
+          .jarallax {
+            height: 100vh;
+          }
+        }
+
+        @media (min-width: 560px) and (max-width: 650px) {
+          header .jarallax h5 {
+            margin-bottom: 1.5rem !important;
+          }
+        }
+
+        .top-nav-collapse {
+            background-color: #6f7782 !important;
+        }
+        .navbar:not(.top-nav-collapse) {
+            background: transparent !important;
+        }
+        @media (max-width: 768px) {
+            .navbar:not(.top-nav-collapse) {
+                background: #6f7782 !important;
+            }
+        }
+        @media (min-width: 800px) and (max-width: 850px) {
+            .navbar:not(.top-nav-collapse) {
+                background: #6f7782!important;
+            }
+        }
+        h1 {
+            letter-spacing: 8px;
+        }
+        h5 {
+            letter-spacing: 3px;
+        }
+        .hr-light {
+            border-top: 3px solid #fff;
+            width: 80px;
+        }
+        footer.page-footer {
+            background-color: #6f7782;
+        }
+
+        @media (max-width: 450px) {
+            .btn-floating {
+                margin-left: 0;
+                margin-right: 0;
+            }
+        }
+
+    </style>
+
 </head>
