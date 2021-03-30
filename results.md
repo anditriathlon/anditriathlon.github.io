@@ -15,6 +15,6 @@ This makes my a lot of fun to improve my results year by year.
 
 04:54:33 - ironman 70.3 (mallorca 2019)
 
-11:43:54 - ironman (hamburg 2017) 
+11:20:47 - ironman (austria 2019) 
 
 [https://enduhub.com/pl/andi_triathlon/](https://enduhub.com/pl/andi_triathlon/)
