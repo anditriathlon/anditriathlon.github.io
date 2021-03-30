@@ -6,7 +6,7 @@ event:
   name: Ironman Austria Klagenfurt
   location: Klagenfurt am Woerthersee, Austria
   type: triathlon
-  url: http://eu.ironman.com/triathlon/events/emea/ironman/austria.aspx
+  url: https://www.ironman.com/im-austria
   date: '2019-07-07'
 distance:
   name: ironman
